@@ -1,6 +1,6 @@
 package Sort;
 
-public class MergeSort_3Way {
+public class MergeSort_Vers2 {
 
 	public static void mergeSort(int[] a) {
         int[] helpA = new int[a.length];
