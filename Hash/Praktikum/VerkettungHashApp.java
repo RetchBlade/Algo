@@ -86,7 +86,7 @@ class Zelle {
 		inhalt = el; next = z; 
 	} 
 }
-
+// Open Hashing
 public class VerkettungHashApp {
 	public static void main(String args[]) {
 		final int B = 5;
